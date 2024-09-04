@@ -1,0 +1,36 @@
+
+.celander{
+    background-color: rgb(183, 186, 187 ,0.5);
+    /* width: 50h; */
+    height: 60vh;
+  }
+  .title{
+    height: 8vh;
+    /* idth: 50vh; */
+    background-color: rgb(133, 147, 229);
+    color: rgb(17, 17, 17);
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 10px;
+   
+  }
+  .con{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+    flex-direction: column;
+    gap: 5px;
+  }
+  .event-button{
+    height: 20vh;
+    color: rgb(133, 147, 229);
+  }
+
+input{
+width: 15vw;
+color: rgb(133, 147, 229);
+}
+.button{
+    color: rgb(133, 147, 229);
+}
